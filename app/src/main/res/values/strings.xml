@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyORM</string>
+    <string name="add_your_note_title">Add your Note Title</string>
+    <string name="add_your_note">add your note</string>
+    <string name="add_your_date_note">Add your Date Note</string>
+    <string name="save_note">Save Note</string>
+</resources>
